@@ -1,4 +1,4 @@
-# 📊 Telecom Customer Churn Analysis & Retention
+# 📊 Telecom Customer Churn Analysis & Retention | Python, SQL
 
 ## 📌 Project Overview
 
